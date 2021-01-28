@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "dzgiogdv",
+    "password": "ldFN96AsZnyWKFXQpGJGt1Ob0J6ZYjEC",
+    "database": "dzgiogdv",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "dzgiogdv",
+    "password": "ldFN96AsZnyWKFXQpGJGt1Ob0J6ZYjEC",
+    "database": "dzgiogdv",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "dzgiogdv",
+    "password": "ldFN96AsZnyWKFXQpGJGt1Ob0J6ZYjEC",
+    "database": "dzgiogdv",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
+
